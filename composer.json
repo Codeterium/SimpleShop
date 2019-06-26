@@ -1,0 +1,15 @@
+{
+    "name": "nikolay/www",
+    "type": "project",
+    "require": {
+        "smarty/smarty": "^3.1",
+        "twbs/bootstrap": "4.3.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "codeterium",
+            "email": "codeterium@gmail.com"
+        }
+    ]
+}
